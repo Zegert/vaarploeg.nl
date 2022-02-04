@@ -1,0 +1,63 @@
+nav {
+  background-color: #474b4e;
+  width: 100vw;
+  margin-left: 0;
+  margin-right: 2vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 30px;
+}
+
+.nav_item {
+  width: 10vw;
+}
+
+.nav_item a {
+  text-decoration: none;
+  color: black;
+}
+
+a:active {
+  color: white;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+body .nieuw_link {
+  color: black;
+  font-size: 15pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.negen {
+  width: 10vw;
+}
+
+.acht {
+  width: 12vw;
+}
+
+.zeven {
+  width: 14vw;
+}
+
+.zes {
+  width: 16vw;
+}
+
+.vijf {
+  width: 18vw;
+  text-align: center;
+}
+/*# sourceMappingURL=style_nav.css.map */

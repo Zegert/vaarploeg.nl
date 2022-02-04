@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  background-color: white;
+
+  .nieuw_link {
+    color: black;
+    font-size: 15pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .opmerking {
+    color: black;
+    border: 1px solid orange;
+    width: 96vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+  }
+  .opmerking:hover {
+    color: orange;
+  }
+}
+
+a {
+  color: black;
+  text-align: center;
+}
+a:hover {
+  color: orange;
+}

@@ -1,0 +1,9 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+beta/Includes/*.scss
+beta/IMG/*.png
+beta/IMG/*.jpg
+beta/IMG/*.jpeg
+beta/IMG/*.ico
